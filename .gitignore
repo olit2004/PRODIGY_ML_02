@@ -1,0 +1,55 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env/
+.env.*
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm
+*.iml
+*.iws
+*.ipr
+
+# Logs and reports
+*.log
+*.csv
+*.tsv
+
+# ML / Data files
+data/
+datasets/
+outputs/
+models/
+*.h5
+*.pt
+*.ckpt
+*.joblib
+*.pickle
+*.pkl
+
+# Mac / Linux system files
+.DS_Store
+*.swp
+*.swo
+
+# Ignore dotenv files containing secrets
+.env
