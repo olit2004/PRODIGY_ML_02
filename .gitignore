@@ -37,7 +37,7 @@ venv/
 # ML / Data files
 data/
 datasets/
-outputs/
+
 models/
 *.h5
 *.pt
